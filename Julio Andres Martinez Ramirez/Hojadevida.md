@@ -19,7 +19,7 @@
 
 
 ### Informacion Academica
-
++ primaria : Marco fidel suarez
 + Bachillerato : Marco fidel suarez 
 
 
